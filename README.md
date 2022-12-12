@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adityagautamm
-- 👀 I’m interested in React web application, cypress automation testing & selenium automation testing
+- 👀 I’m interested in everything automation from cypress,selenium to playwright and everything in the middle
 - 🌱 I’m constantly learning new technologies
 
 <!---
